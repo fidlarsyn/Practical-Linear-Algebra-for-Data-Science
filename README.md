@@ -36,18 +36,33 @@ Bab ini berfokus pada cara menyelesaikan persamaan matriks. Inversi matriks adal
 
 Bab ini memperkenalkan dekomposisi QR, salah satu dari lima dekomposisi matriks utama yang dipelajari dalam buku ini. Dekomposisi QR adalah alat krusial yang mendukung berbagai aplikasi seperti inversi matriks, pencocokan model least squares, dan eigendecomposition.
 
+**Bab 10: Eliminasi Baris dan Dekomposisi LU (Row Reduction and LU Decomposition)**
 
+Bab ini membahas cara menyelesaikan sistem persamaan linear secara efisien. Fokus utamanya adalah memahami Eliminasi Baris sebagai metode manual dan Dekomposisi LU sebagai tulang punggung komputasi modern yang mendasari algoritme machine learning, termasuk pencocokan model least squares dan inversi matriks
 
+**Bab 11: Model Linear Umum dan Least Squares (General Linear Models and Least Squares)**
 
+Bab ini menjembatani teori aljabar linear dengan aplikasi statistik dunia nyata. Anda akan mempelajari bahwa menemukan parameter model statistik (seperti regresi) hanyalah masalah penyelesaian persamaan matriks menggunakan teknik yang sudah dipelajari di bab-bab sebelumnya.
 
+**Bab 12: Aplikasi Least Squares (Least Squares Applications)**
 
+Bab ini membawa konsep least squares ke dalam skenario aplikasi nyata. Anda akan mempelajari bagaimana menangani masalah stabilitas numerik pada matriks yang sulit, menggunakan pustaka statistik untuk analisis yang lebih mendalam, dan mengeksplorasi metode pemodelan non-linear.
 
+**Bab 13: Eigendecomposition**
 
+Eigendecomposition dianggap sebagai salah satu "mutiara" dalam aljabar linear karena kemampuannya mengungkap struktur tersembunyi dalam matriks. Teknik ini memecah matriks persegi menjadi sekumpulan nilai eigen (eigenvalues) dan vektor eigen (eigenvectors) yang memiliki aplikasi luas mulai dari statistika hingga pemrosesan sinyal.
 
+**Bab 14: Singular Value Decomposition (SVD)**
 
+SVD memecah matriks menjadi komponen-komponen yang mengungkap struktur geometris dan statistik internalnya. Konsep ini adalah jantung dari banyak aplikasi modern seperti kompresi data, penghapusan derau (denoising), dan sistem rekomendasi.
 
+**Bab 15: Aplikasi Eigendecomposition dan SVD**
 
+Bab ini menyoroti tiga aplikasi utama yang sangat sering ditemui: PCA, LDA, dan aproksimasi peringkat rendah untuk kompresi atau pembersihan data.
 
+**Nama: Fidela Risyunira
+| NIM: 101032300001
+| Class: TK-46-GAB**
 
 
 
